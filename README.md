@@ -1,7 +1,9 @@
 ## Hi, I'm Ordyns
 ### About me
-I'm a Unity developer. Working with Unity since 2019. I love to create games, program, improve my skills and learn new.   
-I have published two games in [GooglePlay](https://play.google.com/store/apps/developer?id=Ordyns) and I would be glad if you try any of them.
+I'm a Unity developer. Developing games in Unity since 2019.    
+I love to create games, program, improve my skills and learn new. I'm currently learning ECS and DOTS.     
+
+Also, I have published two games in [GooglePlay](https://play.google.com/store/apps/developer?id=Ordyns) and I would be glad if you try any of them.
 
 ### Skills
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity)
@@ -25,4 +27,5 @@ I have published two games in [GooglePlay](https://play.google.com/store/apps/de
 
 ### I’m currently working on:
 [![MakeNewWay](https://img.shields.io/badge/-♻_Make_New_Way-090909?style=for-the-badge)](https://github.com/ordyns/MakeNewWay)
+[![DOTS](https://img.shields.io/badge/-DOTS_Samples-090909?style=for-the-badge&logo=unity)](https://github.com/ordyns/DOTS-Samples)
 [![PingPong](https://img.shields.io/badge/-🏓_Ping_Pong-090909?style=for-the-badge)](https://github.com/ordyns/PingPong)
