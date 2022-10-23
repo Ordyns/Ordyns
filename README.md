@@ -27,5 +27,4 @@ Also, I have published two games in [GooglePlay](https://play.google.com/store/a
 
 ### I’m currently working on:
 [![MakeNewWay](https://img.shields.io/badge/-♻_Make_New_Way-090909?style=for-the-badge)](https://github.com/ordyns/MakeNewWay)
-[![DOTS](https://img.shields.io/badge/-DOTS_Samples-090909?style=for-the-badge&logo=unity)](https://github.com/ordyns/DOTS-Samples)
 [![PingPong](https://img.shields.io/badge/-🏓_Ping_Pong-090909?style=for-the-badge)](https://github.com/ordyns/PingPong)
