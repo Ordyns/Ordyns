@@ -9,10 +9,10 @@ I have published two small games in [GooglePlay](https://play.google.com/store/a
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=purple)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=windows)
 ![Cinema 4D](https://img.shields.io/badge/-Cinema4D-090909?style=for-the-badge&logo=cinema4D)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop)
     
 ### Frameworks and plugins
 ![Zenject](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge&logo=unity)
+![UniRx](https://img.shields.io/badge/-UniRx-090909?style=for-the-badge&logo=unity)
 ![DOTween](https://img.shields.io/badge/-DOTween-090909?style=for-the-badge&logo=unity)
 ![Unity Ads](https://img.shields.io/badge/-Unity_Ads-090909?style=for-the-badge&logo=unity)
 ![Unity Analytics](https://img.shields.io/badge/-Unity_Analytics-090909?style=for-the-badge&logo=unity)     
